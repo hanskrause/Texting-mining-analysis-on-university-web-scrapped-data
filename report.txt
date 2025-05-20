@@ -1,0 +1,16 @@
+AI CONTENT ANALYSIS REPORT
+========================================
+Total files analyzed: 4370
+Files containing AI content: 2554 (58.4%)
+Average AI content percentage: 1.18%
+
+Top 5 files by AI content:
+Filename  AI_Percentage  AI_Word_Count
+1555.txt      23.076923              3
+1014.txt      16.666667              4
+2875.txt      16.528926             20
+4297.txt      15.032680             23
+ 587.txt      14.432990             28
+
+Top 10 AI terms:
+[('ai', 26755), ('llm', 1016), ('guidance', 1000), ('gpt', 734), ('nlp', 703), ('openai', 395), ('bert', 361), ('transformers', 261), ('gan', 105), ('cnn', 69)]
